@@ -1,1 +1,2 @@
 # Ghar-Ka-Dabba-Group-10-
+The Online tiffin service 'Ghar Ka Dabba' website is intended to provide complete solution for Vendors, Customer as well as Internal users (Staff) as a single Gateway using internet. Vendors could be anyone who want to setup their tiffin service center but dont have platform for the same specially housewifes who wish to have a source of side income. It will enable vendors to provide tiffin service online, consumers to browse through all the available tiffin service and order tiffin without physically visiting the tiffin service center.
